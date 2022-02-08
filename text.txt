@@ -1,0 +1,7 @@
+초기화: git init
+스테이지로 : git add . or 파일이름
+커밋 : git commit -m "커밋메세지" (그냥 git commit 자세히 남길때)
+로그 : git log
+상태 : git status
+스테이지+커밋 한번에 git commit -am "커밋메시지" (이건 한번이라도 commit한것만)
+
